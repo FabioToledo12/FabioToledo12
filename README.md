@@ -29,9 +29,9 @@
 <hr>
 <div align="right" margin="20px">
   <h4>Entre Em Contato Comigo Nos Canias Abaixo</h4>
-  <a target="blank" href="https://www.instagram.com/binhojfh/"  > <img src="https://i.pinimg.com/originals/df/ff/dd/dfffddfd14d32a7c65df01ab48b0d203.png" alt="contato-instagram" width="80px"  height= "40px"  /> </a>
-  <a target="blank" href="https://www.linkedin.com/in/fabio-toledo-25755b59"  > <img src="https://cdn-icons-png.flaticon.com/512/38/38669.png" alt="contato-ilinkedin" width="80px"  height= "40px" /> </a>
-  <a target="blank" href="https://api.whatsapp.com/send?phone=551197709-3676&text=Olá %20"> <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/whatsapp_black_logo_icon_147050.png" alt="contato-ilinkedin" width="80px" height= "40px" /> </a>
+  <a target="blank" href="https://www.instagram.com/binhojfh/"  > <img src="https://i.pinimg.com/originals/df/ff/dd/dfffddfd14d32a7c65df01ab48b0d203.png" alt="contato-instagram" width="60px"  height= "40px"  /> </a>
+  <a target="blank" href="https://www.linkedin.com/in/fabio-toledo-25755b59"  > <img src="https://cdn-icons-png.flaticon.com/512/38/38669.png" alt="contato-ilinkedin" width="60px"  height= "40px" /> </a>
+  <a target="blank" href="https://api.whatsapp.com/send?phone=551197709-3676&text=Olá %20"> <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/whatsapp_black_logo_icon_147050.png" alt="contato-ilinkedin" width="60px" height= "40px" /> </a>
 </div>
 <hr>
 <div align="left" margin="20px">
